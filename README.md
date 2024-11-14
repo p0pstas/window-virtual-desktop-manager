@@ -1,2 +1,1 @@
-# window-virtual-desktop-manager
-A repository for managing windows and virtual desktops on Windows 11
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
